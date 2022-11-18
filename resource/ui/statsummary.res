@@ -38,7 +38,7 @@
 		"tall"			"480"
 		"visible"		"1"
 		"enabled"		"1"
-		"image"			"../console/background_upward"
+		"image"			"../vgui/replay/thumbnails/loading_screen"
 		"scaleImage"	"1"
 	}
 
@@ -113,10 +113,10 @@
 		"xpos"				"0"
 		"ypos"				"95"
 		"zpos"				"1"
-		"wide"				"f0"
-		"tall"				"300"
-		"visible"			"1"
-		"enabled"			"1"
+		"wide"				"0"
+		"tall"				"0"
+		"visible"			"0"
+		"enabled"			"0"
 		
 		"NonInteractiveHeaders"
 		{
