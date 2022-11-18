@@ -22,7 +22,7 @@
 		"tall"	"0"
 		"visible"	"0"
 		"enabled"	"0"
-		"image"	""
+		"image"	"../vgui/replay/thumbnails/loading_screen"
 		"scaleImage"	"1"
 	}
 	"Background"
