@@ -72,7 +72,7 @@
 		"labelText"	"%button_token%"
 		"use_proportional_insets"	"1"
 		"font"	"FontBold12"
-		"textAlignment"	"north"
+		"textAlignment"	"center"
 		"dulltext"	"0"
 		"brighttext"	"0"
 		"default"	"1"
