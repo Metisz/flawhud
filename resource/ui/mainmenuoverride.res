@@ -1288,7 +1288,7 @@
 	{
 		"ControlName"	"EditablePanel"
 		"fieldname"	"TF2SettingsButton"
-		"xpos"	"-45"
+		"xpos"	"-8"
 		"ypos"	"-2"
 		"zpos"	"12"
 		"wide"	"19"
