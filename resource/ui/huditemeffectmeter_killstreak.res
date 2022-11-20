@@ -1,18 +1,16 @@
-#base "huditemeffectmeter_demoman.res"
+"#base"	"huditemeffectmeter_demoman.res"
 "Resource/UI/HudItemEffectMeter_Killstreak.res"
 {
 	"HudItemEffectMeter"
 	{
-		"ypos"				"r52"
+		"ypos"	"r52"
 	}
-
 	"StreakIcon"
 	{
-		"labelText"			"\"
+		"labelText"	"\"
 	}
-
 	"StreakIconShadow"
 	{
-		"labelText"			"\"
+		"labelText"	"\"
 	}
 }
