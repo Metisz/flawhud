@@ -309,6 +309,18 @@
 		"tall"	"480"
 		"PaintBackgroundType"	"2"
 	}
+	"CurrencyStatusPanel"
+	{
+		"ControlName"			"CCurrencyStatusPanel"
+		"fieldName"				"CurrencyStatusPanel"
+		"xpos"					"c-210"
+		"ypos"					"r40"
+		"wide"					"100"
+		"tall"					"15"
+		"visible" 				"1"
+		"enabled" 				"1"
+		"PaintBackgroundType"	"2"
+	}
 	"HudProgressBar"
 	{
 		"fieldName"	"HudProgressBar"

@@ -4,11 +4,11 @@
 	{
 		"ControlName"		"EditablePanel"
 		"fieldName"			"SafeMode"
-		"xpos"				"c30"
-		"ypos"				"150"
+		"xpos"				"rs1-45"
+		"ypos"				"130"
 		"zpos"				"100"
 		"wide"				"345"
-		"tall"				"225"
+		"tall"				"230"
 		"visible"			"0"
 		"paintbackground"	"1"
 		"paintborder"		"0"
@@ -24,7 +24,7 @@
 			"wide"				"345"
 			"tall"				"22"
 			"visible"			"1"
-			"bgcolor_override"	"Yellow"
+			"bgcolor_override"	"77 116 85 255"
 
 			"HeaderLabel"
 			{
